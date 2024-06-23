@@ -23,15 +23,16 @@ body {
 
 
 #swiper h1{
-  margin-bottom: 50px;
+ margin-bottom: 20px;
   display: flex;
   justify-content: center;
+  text-decoration-line: underline;
   
 
 }
 #swiper {
   height: 70vh;
-  aspect-ratio: 2 / 3;
+  aspect-ratio: 3 / 4;
   perspective: 1000px;
   perspective-origin: center 50%;
   transform-style: preserve-3d;
